@@ -1,0 +1,1 @@
+**The Problem statement is to find the email spam and i have created a model to detect the spam in this project**
